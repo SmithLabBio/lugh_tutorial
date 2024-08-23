@@ -23,11 +23,11 @@ Open PowerShell
 ssh <net id>@lugh.biology.msstate.edu
 ```
 If you receive the following prompt:
->The authenticity of host ... can't be established.
->RSA key fingerprint is ...
->Are you sure you want to continue connecting (yes/no)? 
-Enter yes to approve.
-Enter password when prompted.
+>The authenticity of host ... can't be established.  
+>RSA key fingerprint is ...  
+>Are you sure you want to continue connecting (yes/no)?  
+Enter yes to approve.  
+Enter password when prompted.  
 
 ### SSH Keys
 The login process can be made less cumbersome by using ssh keys.
