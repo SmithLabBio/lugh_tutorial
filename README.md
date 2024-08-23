@@ -63,8 +63,9 @@ Another space intended to be used for temporary storage for large files or a lar
 ### Symlinks
 Symlinks to the scratch directories can be nice to have. To create one for the scratch directory you would use the command:
 ```bash
-ln -s /mnt/scratch/smithlab/ /mnt/home/<net id>/scratch 
+ln -s /mnt/scratch/smithlab/ /mnt/home/<net id>/scratch
 ```
+You will then be able to `cd` into the scratch directory directly from you home directory without typing out the full path. 
 
 
 
