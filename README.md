@@ -31,7 +31,7 @@ Enter yes to approve.
 Enter password when prompted.  
 
 ### SSH Keys
-The login process can be made less cumbersome by using ssh keys.
+The login process can be made less cumbersome and also more secure by using ssh keys.
 
 #### Generate SSH Keys
 ```bash
