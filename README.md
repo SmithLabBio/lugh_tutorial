@@ -37,7 +37,8 @@ The login process can be made less cumbersome and also more secure by using ssh 
 ```bash
 ssh-keygen
 ```
-It is not necessary to enter a passphrase. If key already exists type "n" and skip this command.
+It is not necessary to enter a passphrase.  
+If you receive a message stating that key already exists type `n` and skip this command.
 
 #### Copy SSH Keys to remote computer
 ```bash
