@@ -61,7 +61,7 @@ This location is intended to be used for storing large files or large numbers of
 Another space intended to be used for temporary storage for large files or a large number of files. Reading and writing to this location is much faster than it is in scratch so it is intended for cases where a program is doing frequent reading and writing of data.  
 
 ### Symlinks
-Symlinks to these directories can be nice to have.
+Symlinks to the scratch directories can be nice to have. To create one for the scratch directory you would use the command:
 ```bash
 ln -s /mnt/scratch/smithlab/ /mnt/home/<net id>/scratch 
 ```
