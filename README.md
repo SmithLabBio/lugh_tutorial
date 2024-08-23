@@ -2,7 +2,7 @@
 Install the Cisco AnyConnect VPN Client.
 You will need to use this anytime you want to log onto the cluster through any network other than an ethernet connection on campus.
 1. Go to `vpn.msstate.edu`, log in, download the app, and install it.
-2. Once install open the Cisco AnyConnect VPN Client.
+2. Once installed open the Cisco AnyConnect VPN Client.
 3. Enter `vpn.msstate.edu` into the address field and click connect.
 4. Enter your username, password, and enter `push` into the `Duo Password` field. Then click ok.
 5. Approve the push notification sent through Duo Mobile to your phone. If it does not appear in your notifications you may need to open the Duo Mobile app in order to approve it.
