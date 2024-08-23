@@ -128,7 +128,7 @@ module list
 ```
 
 ### Load Software
-To load a program:
+To load a program into your environment:
 ```bash
 module load <program name>
 ```
