@@ -26,6 +26,7 @@ If you receive the following prompt:
 >The authenticity of host ... can't be established.  
 >RSA key fingerprint is ...  
 >Are you sure you want to continue connecting (yes/no)?  
+
 Enter yes to approve.  
 Enter password when prompted.  
 
