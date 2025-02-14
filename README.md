@@ -133,6 +133,26 @@ To load a program into your environment:
 module load <program name>
 ```
 
+# Moving Files On and Off of Lugh
+To move a file from your local computer to Lugh:
+```bash
+scp <local file path> <netid>@lugh.biology.msstate.edu:<remote path>
+```
+
+To move a directory from your local computer to Lugh add the `-r` flag:
+```bash
+scp -r <local directory path> <netid>@lugh.biology.msstate.edu:<remote path>
+```
+
+To move a file from Lugh to your local computer:
+```bash
+scp <netid>@lugh.biology.msstate.edu:<remote path> <local file path>
+```
+
+To move a directory from Lugh to your local computer add the `-r` flag:
+```bash
+scp -r <netid>@lugh.biology.msstate.edu:<remote path> <local directory path>
+```
 
 
 # Vscode
