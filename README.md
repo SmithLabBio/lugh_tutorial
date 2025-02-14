@@ -133,7 +133,7 @@ To load a program into your environment:
 module load <program name>
 ```
 
-# Moving Files On and Off of Lugh
+# Moving Files To and From Lugh
 To move a file from your local computer to Lugh:
 ```bash
 scp <local file path> <netid>@lugh.biology.msstate.edu:<remote path>
